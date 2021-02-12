@@ -3,12 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@react-spring/three": "^9.0.0-rc.3",
+    "@react-three/drei": "^3.3.0",
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.6.3",
+    "antd": "^4.12.3",
+    "drei": "^2.2.21",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.2",
+    "react-spring": "^8.0.27",
+    "react-three-fiber": "^5.3.18",
+    "react-use-gesture": "^9.0.1",
+    "three": "^0.125.2",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
